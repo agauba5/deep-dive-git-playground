@@ -1,6 +1,6 @@
 Line 1
 Line 2 : this line is the best
 Line 3
-Line 4 : this will conflict
+Line 4 : this line will also conflict
 Line 5 : no this line is the best
 line 6
